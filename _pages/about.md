@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Jochen"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Hi, my name is Jochen and I live in Zurich, Switzerland. I'm a systems and
+software engineer with experience as a developer and team lead. I have a good
+understanding of the whole infrastructure stack and how to automate each system
+in it and combine all the pieces so that they play nicely together.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Over the years I learned a lot and I'm still learning new things every day. With
+these posts I hope that I can pay it forward, as I learned so many things from
+other people and hopefully I can prevent some of you from experiencing the same
+pain I did :wink:
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+## Feedback
+If you have questions or feedback to any of my posts, please don't hesitate to
+get in touch with me. Even if you have a simple or in your opinion a _stupid_
+question, don't hesitate to ask, as I'm more than willing to answer it.
 
 Thanks for reading!
