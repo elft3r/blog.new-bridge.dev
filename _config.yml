@@ -1,6 +1,6 @@
 # Site settings
-title:          new bridge
-description:    "The new bridge dev blog"
+title:          new bridge developer blog
+description:    "The new bridge developer blog"
 baseurl:        ""
 url:            "https://blog.new-bridge.dev"
 
